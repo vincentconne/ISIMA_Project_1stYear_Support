@@ -1,0 +1,12 @@
+1 - Introduction : Vincent
+2 - Qu'est-ce que la RV ? : Thomas
+3 - Processing + Biblio : Vincent
+4 - Présentation du projet : Thomas
+5 - Terrain 3D : Vincent
+6 - Spheres internes : Thomas
+7 - Spheres externes : Vincent
+8 - Implémentation globale : Thomas
+9 - Difficultés bruit, camera : Vincent
+10 - Difficultés rendu immersif centrage, amélio textures : Thomas
+11 - Amélio ajout éléments, ombrages et luminosités : Vincent
+12 - Conclusion : Thomas
